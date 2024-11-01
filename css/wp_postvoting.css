@@ -1,0 +1,6 @@
+.wp_postvote {font-weight: bold;padding:10px}
+.wp_postvote h4 {margin: 0;font-weight: bold;font-size: 16px !important}
+.wp_vote_icon {background:url(../images/thumbs-up.png) no-repeat -2px -2px;width: 20px;height: 20px;display: inline-block;cursor:pointer}
+.wp_vote_icon:hover {background:url(../images/thumbs-up.png) no-repeat -2px -26px}
+.wp_voted_icon {background:url(../images/thumbs-up.png) no-repeat -2px -26px;width: 20px;height: 20px;display: inline-block}
+.wp_votecount {margin: 0;font-size: 16px !important;display: inline}

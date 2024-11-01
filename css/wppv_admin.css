@@ -1,0 +1,29 @@
+div.wrap {clear:both}
+div#wppv_container h2 {font-size: 24px;font-weight: 700}
+div#wppv_container div#message {width: 50%}
+div#wppv_container div.wppv_maincontent{padding:0 20px 0 0}
+div#wppv_container div.wppv_maincontent p.get_started {background-color: #fff;padding: 10px;font-size: 14px;line-height: 24px;border-left: 4px solid #7ad03a;-webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);box-shadow: 0 1px 1px 0 rgba(0,0,0,.1)}
+div#wppv_container div.wppv_maincontent h3{background: #F9F9F9;font-size: 18px;margin: 10px 0 0;padding: 10px;border-width: 1px 1px 0 1px;border-style: solid;border-color: #E5E5E5}
+div#wppv_container div.wppv_maincontent #poststuff{min-width:initial;padding-top:0}
+div#wppv_container div.wppv_maincontent #poststuff h3 {font-size: 18px;border-style: solid;border-width: 0 0 1px 0;margin: 0}
+div#wppv_container div.wppv_maincontent .form-table th{width: 250px}
+/* Table Lists */
+div#wppv_container div.wppv_maincontent div.table_list {margin-bottom: 15px;border: 1px solid #E5E5E5}
+div#wppv_container div.wppv_maincontent div.table_list table {border-collapse: collapse; margin: 0; text-align: left; width: 100%}
+div#wppv_container div.wppv_maincontent div.table_list table td, div#wppv_container div.wppv_maincontent div.table_list table th {padding: 10px}
+div#wppv_container div.wppv_maincontent div.table_list table thead th {background-color:#fff; width: auto; color:#333; font-size: 15px}
+div#wppv_container div.wppv_maincontent div.table_list table thead th:first-child {border: none}
+div#wppv_container div.wppv_maincontent div.table_list table tbody tr {background-color: #F9F9F9}
+div#wppv_container div.wppv_maincontent div.table_list table tbody td {font-size: 14px;font-weight: 600;height: 25px;padding-top: 15px;vertical-align: 0}
+div#wppv_container div.wppv_maincontent div.table_list table tbody .wppv_alt td {background: #FFFFFF}
+div#wppv_container div.wppv_maincontent div.table_list table tbody td:first-child {border-left: none}
+div#wppv_container div.wppv_maincontent div.table_list table tbody tr:last-child td {border-bottom: none}
+/* Table Nav */
+div#wppv_container div.wppv_maincontent div.tablenav{margin: 0;padding: 3% 0}
+div#wppv_container div.wppv_maincontent div.tablenav-pages span.current {padding: 1px 9px 4px;margin-right: 2px;background: #fff;font-size: 15px}
+/* Sidebar */
+div#wppv_sidebar {margin-top: 61px}
+div#wppv_sidebar #wppv-statistics.wppvinfo_sidebar, div#wppv_sidebar #wppv-display.wppvinfo_sidebar, div#wppv_sidebar #wppvdev-info.wppvinfo_sidebar {background-color:#fff}
+div#wppv_sidebar #wppv-statistics.wppvinfo_sidebar table td {background: #35445C;border: 3px solid #fff;font-size: 16px;font-weight: 600;color: #fff}
+div#wppv_sidebar .wppvinfo_sidebar {position: relative;max-width: 255px;border: 1px solid #e5e5e5;-webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);box-shadow: 0 1px 1px rgba(0,0,0,.04);margin-bottom: 20px;padding: 0 15px 10px}
+div#wppv_sidebar .wppvinfo_lists li {list-style: disc;margin: 0 0 5px 15px}
